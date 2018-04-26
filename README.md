@@ -1,7 +1,7 @@
 # User-Adaptive-Data-Vocalization
 **Source code of the project of user-adaptive data vocalization.**
 
-Note: This project is built with IBM Watson and compiled with Maven. You would have to set up Waston first on your site.
+*Note: This project is built with IBM Watson and compiled with Maven. You would have to set up Waston first on your site.*
 
 Code Structure:
 * main: source files folder.
